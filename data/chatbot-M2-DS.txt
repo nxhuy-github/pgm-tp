@@ -1,0 +1,541 @@
+Quels sont les parcours ?	Le M2 ouvre en Informatique et Mathématiques Appliquées 
+C'est un M2 ou un M1 ?	C'est un M2
+Quels mentions ?	mention Informatique ou Mathématiques
+Je souhaite m'inscrire	Les inscriptions 2018 se font sur ecandidat
+Je veux m'inscrire	Les inscriptions 2018 se font sur ecandidat
+Je souhaite postuler	Les inscriptions 2018 se font sur ecandidat
+Je souhaite postuler au master en 2018	Les inscriptions se font sur ecandidat
+Quels apprentissages ?	Acquérir un socle de connaissances techniques en machine learning 
+Quels cours ?	Acquérir un socle de connaissances techniques en machine learning 
+Les atouts de ce parcours ?	Une pédagogie fondée sur de nombreuses études de cas 
+Quels atouts ?	Une pédagogie fondée sur des retours d’expérience
+Quelle pédagogie ?	Une pédagogie fondée sur de nombreuses études de cas 
+Quel est le corps professoral ?	Il est composé de chercheurs du LIRIS, 
+Quelles synergies ?	Forte synergie entre milieu académique et monde professionnel
+Des liens avec le monde professionnel ?	Forte synergie entre milieu académique et monde professionnel
+Dans quelle langue ?	En Français, certains cours sont en anglais
+Doctorat ?	Oui c'est possible après le master
+Thèse ? 	Oui c'est possible après le master
+Quelle date de rentrée ?	La rentrée est le 5 septembre
+Quand ?	C'est le 5 septembre
+La date de rentrée ?	Le 5 septembre
+C'est quand la rentrée ?	Le 5 septembre
+Combien de places ?	Il y a 20 places en tout
+Quels sont les prérequis ?	Les Mathématiques et les statistiques
+Si je suis étranger ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Nantes ?	Il y a 5 places
+Si je viens de Lyon ?	Il y a 20 places
+Si je viens de Paris ?	Il y a 5 places
+Si je viens de Marseille ?	Il y a 5 places
+Quelle date ?	C'est le cinq septembre
+Quand ?	Le cinq septembre
+Combien de places ?	Il y a 20 places en tout
+Il faut des prérequis ?	En Mathématiques et statistiques oui
+Comment faire si je suis étranger ?	Il y a dix places aux étudiants hors UE
+Si je n'ai pas fait mon M1 à Lyon 1 ?	5 places pour ceux qui ont un M1 français
+Si je viens de Lyon ?	Il y a vingt places pour les lyonnais
+Si je viens de Paris ?	Cinq places pour les titulaires d'un master français
+Si je viens de Marseille ?	Il y a 5 places
+Quelle date est la rentrée ?	La rentrée est le 5 septembre 2018
+Quand est-ce ?	Le cinq septembre
+Combien de places ?	Il y a 20 places en tout
+Y a-t-il des prérequis nécessaires?	Oui en Mathématiques et statistiques
+Si je suis étranger ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Nantes ?	Cinq places pour les titulaires d'un master français
+Si je viens de Lyon ?	Il y a 20 places 
+Si je viens de Pau ?	Cinq places pour les titulaires d'un master français
+Si je viens de Marseille ?	5 places pour ceux qui ont un M1 français
+Quelle date ?	Le cinq septembre
+C'est quand la rentrée ?	Le 5 septembre
+Combien de places ?	Il y a 20 places en tout
+Quels sont les connaissances demandées ?	Mathématiques et statistiques
+Si je suis étranger ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Nantes ?	5 places pour les titulaires d'un master français
+Si je viens de Lyon ?	Il y a 20 places pour vous
+Si je viens de Reims ?	Cinq places pour les titulaires d'un master français
+Si je viens de Marseille ?	5 places pour ceux qui ont un M1 français
+A quelle date ?	Le 5 septembre 2018
+Quand ?	C'est le 5 septembre 2018
+Combien de places en tout ?	Il y a 20 places en tout
+Quels prérequis ?	Mathématiques et statistiques
+Et pour les étrangers ?	Il y a 10 places pour les étudiants étrangers
+Si je viens de Angers ?	5 places pour les titulaires d'un master français
+Si je viens de Paris ?	5 places pour les titulaires d'un master français
+Si je viens de Grenoble ?	5 places pour ceux qui ont un M1 français
+Le master forme à quel métier ?	Au métier de data scientist
+Le master forme à quels métiers ?	Au métier de data scientist
+Le  master prépare à quel emploi ?	Au métier de data scientist
+Le  master prépare à quel métier ?	Au métier de data scientist
+Quels sont les débouchés ?	Les data sciences
+Cela débouche sur quoi ?	Au métier de data scientist
+Quel métier après ?	Le métier de data scientist
+C'est un formation de qualité	Merci
+C'est un super Master	Merci
+C'est un master reconnu	Oui, il le devient
+Je suis intéressé	Merci, j'en prends note
+J'aimerais faire votre master	Merci, j'en prends note
+Je veux faire ce master	Merci, j'en prends note
+Votre master m'intéresse	Merci, j'en prends note
+Cordialement	Cordialement
+Salutations	Cordialement
+Bonjour	Bonjour
+Bonjour Monsieur	Bonjour
+Bonjour Professeur	Bonjour
+Merci Monsieur	De rien
+Merci Bien	De rien
+Merci de votre aide	De rien
+Merci pour les renseignements	De rien
+C'est gentil	Merci
+Pourriez-vous me renseigner	Oui, volontiers, quel est votre profil ?
+J'ai besoin d'aide	Oui, volontiers, quel est votre profil ?
+J'ai une question	Oui, posez votre question
+J'ai des questions	Oui, posez vos questions
+C'est possible de s'inscrire ?	Oui, d'où venez vous ?
+Mes salutations	Bonjour
+Il y a un stage à faire ?	Oui de six mois à partir de mars
+Il faut faire un stage ?	Oui de six mois à partir de mars
+La durée du stage ?	Six mois
+Le stage dure combien de temps ?	Six mois
+Il faut être titulaire d'un master en informatique ?	Oui c'est préférable
+J'ai un  master un en bio informatique	Il faut refaire un  master un en informatique
+J'ai un  master un en mathématiques	Il faut postuler au  master DS math
+J'ai un  master un en chimie	Il faut refaire un  master un en informatique
+J'ai fait  master un en bio informatique	Il faut refaire un  master un en informatique
+J'ai fait  master un en mathématiques	Il faut postuler au  master DS math
+J'ai un  master un en physique	Il faut refaire un  master un en informatique
+Quel est le contenu de la formation ?	Il faut regarder sur notre site Web
+Quels sont les cours dispensés ?	Il faut regarder sur notre site Web
+Quels sont les cours donnés ?	Il faut regarder sur notre site Web
+Quels sont les cours enseignés ?	Il faut regarder sur notre site Web
+Quels sont les cours ?	Il faut regarder sur notre site Web
+Quelles sont les unités d'enseignement ?	Il faut regarder sur notre site Web
+Il y a des cours de Graphes ?	Oui
+Il y a des cours de Data Visualization ?	Oui
+Il y a des cours de Big Data ?	Oui il y a un cours en Big Data
+Il y a des cours de Python ?	Oui il y a des TPs de Python
+Il y a des cours de Data Mining ?	Oui il y a un cours de Data Mining
+Il y a des cours de Graphes ?	Oui il y a un cours de Graphes
+Il y a des cours de Machine Learning ?	Oui il y a 2 cours de Machine Learning
+Il y a des rappels de Mathématiques ?	Oui, pour les étudiants de DS informatique
+Il y a des rappels d'informatique ?	Oui, pour les étudiants de DS math
+Quels langages de programmation ?	Python essentiellement
+Il y a des cours de Graphes ?	Oui
+Il y a de la Data Visualization ?	Oui
+Il y a du Big Data ?	Oui
+Il y a du Python ?	Oui
+Y a-t-il du Data Mining ?	Oui
+Il y a des cours de Graphes ?	Oui
+Il y a des cours de Machine Learning ?	Oui il y a 2 cours de Machine Learning
+Il y a des rappels de Mathématiques ?	Oui, pour les étudiants de DS informatique
+Il y a des rappels d'informatique ?	Oui, pour les étudiants de DS math
+Combien d'ECTS par cours ?	Trois ECTS
+Il y a combien de candidats ?	Deux cents environs, la sélection est rude
+Il y a beaucoup de candidats chaque année ?	Deux cents environs, la sélection est rude
+Le niveau est-il élèvé ?	Le niveau est plutôt bon oui.
+Quel est le niveau ?	Le niveau est plutôt bon
+Les cours sont durs ?	Non, mais il faut travailler assidument
+Le master est-il difficile à suivre ? 	Non, mais il faut travailler assidument
+Les cours-ils difficile à suivre ?	Non, mais il faut travailler assidument
+Vous pouvez m'aider ?	Oui, je suis là pour vous renseigner
+J'ai besoin d'aide	Je suis là pour vous renseigner
+J'ai besoin d'un renseignement	Je suis là pour vous renseigner
+J'ai besoin de renseignements	Je suis là pour vous renseigner
+J'ai des questions	Je suis là pour vous aider
+Le master est-il ouvert en alternance ?	Non
+On peut le faire en alternance ?	Non
+On peut faire ce M2 en alternance ?	Non
+Il est possible de faire ce M2 en alternance ?	Non
+Comment faire pour s'inscrire ?	Il faut contacter la scolarité
+Et pour s'inscrire je fais comment ?	Il faut contacter la scolarité
+Est-il encore possible de s'inscrire ?	Il faut contacter la scolarité
+Je voudrais m'inscrire.		Il faut contacter la scolarité
+Et pour les inscriptions on fait comment ?	Il faut contacter la scolarité
+Est-il encore possible de s'inscrire ?	Il faut consulter le calendrier
+Puis-je encore m'inscrire ?	Il faut consulter le calendrier
+Je peux encore m'inscrire ?	Il faut consulter le calendrier
+C'est un master en 2 ans ?	Non, c'est un M2 d'un an.
+Est-ce un master en deux ans ?	Non, c'est un M2 d'un an.
+Le master dure 2 ans ?	Non, c'est un M2 d'un an.
+C'est un master en 1 an ?	Oui, c'est un M2 d'un an.
+Est-ce un master en un an ?	Oui, c'est un M2 d'un an.
+Le master dure un an ?	Oui, c'est un M2 d'un an
+Y a t-il eu des redoublants les années passées ?	Non un seul
+Est-ce un master orienté recherche ou entreprise ?	Il s'agit d'un M2 indifférencié
+Avez-vous une maquette détaillée de ce master ?	Oui je vous l'ai envoyée en pièce jointe
+Ou puis-je trouver le détail des UEs proposées ?	Sur le site du master.
+Est-ce un master PRO ou recherche  ?	Il s'agit d'un M2 indifférencié
+Auriez-vous une maquette de ce master ?	Oui je vous l'ai envoyée en pièce jointe
+Peut-on faire un stage en entreprise ?	Oui
+Je viens de Strasbourg.	Il y a cinq places disponibles dans ce master.
+Aurais-je des vacances ?	Les vacances ne doivent pas être votre motivation.
+Quel est la réputation du master ?	C'est à vous de faire sa réputation. 
+Quel est le pourcentage d'embauche en fin d'études ?	En data sciences, 100%. 
+Comment sont les enseignants ?	A vous de vous faire votre avis ! 
+Je suis indécis.	Tirez à pile ou face. 
+Je suis indécise.	Tirez à pile ou face.
+Quel est le temps à Lyon ?	Plutôt bon.
+Les gens sont-ils cools à Lyon ?	A vous de vous faire votre avis ! 
+Les gens sont-ils sympa à Lyon ?	A vous de vous faire votre avis ! 
+J'ai peur de ne pas réussir.	C'est toujours mieux que ne rien faire.
+J'ai peur de rater.	C'est toujours mieux que ne rien faire.
+Combien d'étudiants ont raté l'an dernier ?	Un seul. 
+J'hésite avec le master intelligence artificielle.	Il faut effectivement faire un choix.
+Peut-on suivre deux cursus en parallèle.	Non, sauf les étudiants de l'ECL. 
+J'aime la data science.	C'est un bon point !
+Je n'aime pas la data science.	Que faites-vous sur ce forum ?
+Avons-nous cours les samedis ?	Non, mais vous pourrez travailler à la BU
+Avons-nous cours le week-end ?	Non, mais la BU est ouverte
+Puis-je avoir le contact d'un ancien élève ?	Oui, bien sûr
+Peut-on faire le master en alternance ?	Non
+Je n'ai pas compris	J'ai oublié votre question pardon
+Pardon ?	J'ai oublié votre question pardon
+Qui sont les enseignants du master ?	Des chercheurs du LIRIS
+En quoi consiste  le master ?	6 mois de cours et 5 mois de stage
+Salut	Bonjour
+Pourquoi il y a plusieurs parcours ?	Les deux parcours proposés permettent d'adapter l'enseignement aux étudiants suivant leur profil
+Quelle est la différence entre le parcours Info et Math ?	Le contenu est le même, seules les UE de remise à niveau sont différentes
+l y a plusieurs parcours ?	Oui tout à fait, deux parcours sont proposés pour le Master Data Science : Le parcours Mathématiques et le parcours Informatique
+Et on peut candidater aux deux parcours ?	En principe oui, mais sachez que chaque parcours possède ses propres prérequis
+Quelles sont les mentions ?	Deux parcours sont proposés pour le Master Data Science : Le parcours Mathématiques et le parcours Informatique
+Mes salutations	Bonjour
+Il y a plusieurs parcours ?	Oui tout à fait, deux parcours sont proposés pour le Master Data Science : Le parcours Mathématiques et le parcours Informatique
+Et est-ce qu'on peut s'inscrire aux deux parcours ?	En principe oui, mais sachez que chaque parcours possède ses propres prérequis
+l faut obligatoirement avoir fait de l'informatique pour candidater ?	Non, le Master est ouvert aux étudiants d'informatique, de mathématiques et d'un cursus ingénieur
+Je n'ai pas de lettre de recommendation	Ce n'est pas un problème
+Est-ce qu'il y a des options à suivre ?	Certaines options du Master 1 Informatique sont conseillées, référez vous à la page web
+Il y a plusieurs parcours ?	Oui tout à fait, deux parcours sont proposés pour le Master Data Science : Le parcours Mathématiques et le parcours Informatique
+Il y a une différence entre le parcours Info et Math ?	Le contenu est le même, seules les UE de remise à niveau sont différentes
+l vaut mieux faire le parcours Informatique ou mathématiques ?	Le contenu est le même, seules les UE de remise à niveau sont différentes
+Qui peut candidater ?	Le Master est ouvert aux étudiants titulaires d'un Master 1 en informatique, mathématiques ou issus d'un cursus ingénieur
+Il y a des projets à rendre ?	Oui, plusieurs projets sont à rendre
+Faut-il faire un projet de fin d'étude ?	Oui, Il y a plusieurs projets à réaliser et à présenter en fin d'études
+Faut-il faire un PFE ?	Oui, vous devez réaliser plusieurs projets en binôme
+J'aimerais savoir si il y a des projets durant l'année ?	Oui, vous devrez réaliser plusieurs projets de fin d'étude
+Le projet est-il encadré par des chercheurs du laboratoire ?	Oui, vous serez encadré par les enseignants chercheurs
+On doit faire un projet de fin d'études ?	Plusieurs projets de fin d'études seront à rendre 
+Combien de projets il y a ?	Il y a un projet à faire dans la plupart des UE
+combien de projets sont à rendre ?	Il y a un projet à faire dans la plupart des UE
+Il y a qu'un seul projet ?	Non, plusieurs projets sont à rendre
+Il y a plusieurs projets à rendre ?	Oui tout à fait
+Quels types de projets sont à faire ?	Ce sont des mini-projets à rendre dans pratiquement chaque UE
+Quel genre de projets sont à rendre ?	Ce sont des mini-projets à rendre dans pratiquement chaque UE
+Est-ce que les projets sont transversaux entre UE ?	Non, les projets concernent chacun une seule UE
+Est-ce que les projets concernent plusieurs UE ?	Non, les projets concernent chacun une seule UE
+Est-ce que c'est un gros projet à rendre ?	Non, ce sont plusieurs mini-projets à rendre
+Il faut faire un seul gros projet ?	Non, ce sont plusieurs mini-projets à rendre
+On peut développer un projet perso ?	Bien sûr! Mais prennez garde à consacrer suffisament de temps aux enseignements
+Pourriez-vous me renseigner	Oui volontier, que désirez vous savoir ?
+J'ai besoin d'aide	En quoi puis-je vous aider ?
+J'ai une question	Je suis là pour vous aider
+Vous pouvez m'aider ?	Oui volontier, que désirez vous savoir ?
+J'ai besoin d'un renseignement	Je suis là pour vous renseigner
+J'ai besoin de renseignements	Je suis là pour vous renseigner
+J'ai des questions	Je suis là pour vous aider
+J'aurais une question	Je suis là pour vous aider
+Je peux vous poser une question ?	Oui volontier, que désirez vous savoir ?
+Je recherche des informations	Je suis là pour vous aider
+Je suis un peu perdu	Comment puis-je vous aider ?
+Il y a un stage à faire ?	Oui, Il y a un stage à faire
+Il faut faire un stage ?	Oui, Il y a un stage à faire
+La durée du stage ?	Le stage doit avoir une durée de 5 à 6 mois
+Le stage dure combien de temps ?	Le stage doit avoir une durée de 4 à 6 mois
+Combien de temps dure le stage ?	Le stage doit durer entre 4 et 6 mois
+Quand est-ce que le stage commence ?	Le stage ne doit pas démarrer avant fin Janvier, et ne peut dépasser le 30 Septembre
+Quelle est la date de fin du stage ?	Le stage doit finir absolument avant le 30 Septembre
+Quelle est la date de début de stage ?	Le stage ne peut commencer avant le mois de janvier
+Le stage est-il rémunéré ?	Oui, le stage est obligatoirement rémunéré
+Est-ce que le stage est payé ?	Oui, le stage est obligatoirement rémunéré
+Est-ce qu'on est payé pendant le stage ?	Oui, le stage est obligatoirement rémunéré
+Combien on est payé pendant le stage ?	La paye minimale durant le stage est de 550 Euros mensuels environ
+Quelle est la paye minimale pendant le stage ?	La paye minimale durant le stage est de 550 Euros mensuels environ
+Quelle est la paye maximale pendant le stage ?	Il n'y a pas de paye maximale
+A combien s'élève la gratification durant le stage ?	La paye minimale durant le stage est de 550 Euros mensuels environ
+Quel est le salaire durant le stage ?	La paye minimale durant le stage est de 550 Euros mensuels environ
+Est-ce qu'on peut négocier la rémunération du stage ?	Il faut voir cela avec l'entreprise d'accueil
+Est-ce qu'il faut trouver un stage avant de faire l'inscription ?	Il n'est pas nécessaire de trouver un stage avant l'inscription
+Il faut avoir un stage avant le début des cours ?	Non, il n'est pas nécessaire de trouver un stage avant le début des cours
+Il faut trouver un stage avant le début des cours ?	Non, il n'est pas nécessaire de trouver un stage avant le début des cours
+On doit trouver un stage avant de commencer ?	Non, il n'est pas nécessaire de trouver un stage avant le début des cours
+Il faut avoir un stage avant de commencer le master ?	Non, il n'est pas nécessaire d'avoir un stage avant de commencer le Master
+Comment trouver un stage ?	Des offres de stage seront transmises aux étudiants au fur et à mesure
+Où trouver un stage ?	Des offres de stage seront transmises aux étudiants au fur et à mesure
+On peut faire son stage à l'étranger ?	Oui, vous pouvez faire votre stage ou vous le souhaitez, sous réserve de validation par l'université
+Quand est la soutenance de stage ?	Le soutenances de stage se font début septembre
+Quand faut-il rendre le rapport de stage ?	Les rapports de stage sont à rendre vers la fin Aout
+Comment je contacte le responsable du Master ?	Il faut se renseigner sur la page siteContacts
+Comment je contacte la scolarité ?	Il faut se renseigner sur la page siteContacts
+Comment pourrais-je contacter la scolarité ?	Il faut se renseigner sur la page siteContacts
+Ou puis-je retirer ma carte étudiant ?	Vous devriez poser la question au service de scolarité
+Ou je peux faire refaire ma carte étudiant ?	Vous devriez poser la question au service de scolarité
+Est-tu un bot ?	Effectivement, je suis un bot
+Tu es un robot ?	Effectivement, je suis un robot
+Quel est ton nom ?	Je m'appelle nomChatbot
+Comment tu t'appelle ?	Je m'appelle nomChatbot
+Tu t'appelles comment ?	Je m'appelle nomChatbot
+Tu as un nom ?	Oui, Je m'appelle nomChatbot
+Qui est ton créateur ?	Navré, je n'ai pas la réponse à cette question
+C'est un formation de qualité	Merci
+C'est un super Master	Merci
+C'est un master reconnu	Oui, il le devient
+Je n'ai pas compris	Excusez moi, pouvez-vous reformuler votre requête ?
+Je n'ai pas compris la réponse	Excusez moi, pouvez-vous reformuler votre requête ?
+On est obligé de passer par ecandidat ?	Oui c'est obligatoire
+Il faut connaitre quel langage ?	Vous aurez principalement besoin des langages Python, R et Scala
+Quels sont les langages qu'on va utiliser ?	Vous utiliserez principalement les langages Python, R et Scala
+Il y a d'autres langages que du Python ?	Certains TP devront être fait en R, en Scala ou en SAS
+Il faut connaitre le Python ?	Il n'est pas nécessaire de maitriser ce langage, mais plus vous en savez mieux c'est
+Il faut connaitre le R ?	Il n'est pas nécessaire de maitriser ce langage, mais plus vous en savez mieux c'est
+On doit apprendre le scala ?	Il n'est pas nécessaire de maitriser ce langage, mais plus vous en savez mieux c'est
+C'est obligatoire de connaitre le Python ?	Il n'est pas nécessaire de maitriser ce langage, mais plus vous en savez mieux c'est
+Il faut apprendre un langage en particulier ?	Non, mais vous pouvez essayer de vous perfectionner en Python, R ou scala
+Quels sont les langages de programmation utilisés ?	Vous utiliserez principalement les langages Python, R et Scala
+Combien y a-t-il d'ECTS par cours ?	Chaque cours vaut trois ECTS
+Y a-t-il eu des redoublants les années passées ?	Il y a eu un seul redoublant
+Aurais-je des vacances ?	Vous aurez malheureusement peu de vacances
+C'est plus facile pour les Matheux ou les Infos ?	Chacun a ses facilités et ses difficultés
+Quel est la réputation du master ?	C'est à vous de faire sa réputation 
+Quel est le pourcentage d'embauche en fin d'études ?	En data sciences, le taux d'embauches est de 100% 
+Comment sont les enseignants ?	A vous de vous faire votre avis ! 
+Combien d'étudiants ont raté l'an dernier ?	Un seul 
+Peut-on suivre deux cursus en parallèle ?	Non, sauf les étudiants de l'ECL et Polytech
+Est ce que l'université nous aide pour trouver des stages ?	Oui, les étudiants sont informés des forums organisés par l'université, et les proffesseurs relayent beaucoups d'offres
+quand faut-il commencer le stage ?	A partir de fin fevrier
+proposez vous des thèses dans le laboratoire de l'université ?	Oui, on en propose plusieurs
+quels sont les thèses proposées pour la rentrée 2019 ?	L'apprentissage de la structure des réseaux bayésiens avec des applications sur des données médicales
+merci beaucoup	je vous en prie
+quels sont les modules pour les etudiants de ECL ?	Deux modules obligatoires (PGM et Mchine learning)
+ou trouver l'emploi du temps data science ?	sur le site web
+comment l'etudiant est noté ?	Ca dépend de chaque matière, en fonction de ses notes de TP, CC et partiels
+est ce que tout les cours sont sur le campus de villeubanne ?	Ouisauf si vous suivez le master en commun avec ECL
+aurons nous des ordinateurs pour les TP ?	Oui, des ordinateurs sont à votre disposition dans les salles de TPs​
+Quel est la proportion d'étudiants de l'INSA Lyon ?	Un cinquième.
+Combien d'étudiants viennent de l'INSA Lyon ?	Une dizaine.
+Combien de stages proposés dans le domaine de la biologie ?	Au moins 4. 
+Quel est le système d'exploitation préféré des professeurs ?	Mac.
+Quels sont les OS les plus utilisés par les étudiants ?	Windows, Linux.
+Combien de matières choisies en moyenne par les étudiants en double cursus ?	Huit.
+Quel est le programme de statistiques ?	Inférence puis régression linéaire.
+Combien d'anecdotes par cours de machine learning en moyenne ?	Au moins 3.
+Quelle est la moyenne de la promotion ?	12.
+Quel est le salaire moyen annuel à la sortie ?	30 000 euros.
+Combien d'offres de stage en santé ?	Deux. 
+​Bonjour, je veux faire data science et j'ai quelques questions à vous poser.	je vous écoute
+Bonjour	je suis à votre écoute.
+Je veux savoir les statistiques des années précédentes dans l'insertion professionnelle.	Il y a 100% d'intégration professionnelle en M2 DS. 
+Et à propos de la poursuite d’études.	Le M2 DS permet également la poursuite en thèse.
+Pouvez vous m'envoyer la présentation  du parcours sous forme de PDF ?	Vous trouverez la présentation sur le site web du master 
+J'ai besoin du planning de l'année courante ou passée, merci de me l'envoyer.	Vous trouverez le planning sur le site web du master
+Qui est le responsable de cette formation ?	C'est Monsieur Alexandre AUSSEM et le co-responsable est Haytham Elghazel
+Comment je fais pour déposer une candidature ?	Vous trouverez ces informations  sur le site web du master 
+Est ce qu'il y a un stage dans cette formation ?	Oui, il y a un stage à faire. 
+Un stage effectué en entreprise ?	Les stages sont effectués en entreprise ou dans un laboratoire de recherche
+Un stage effectué en laboratoire ?	Les stages sont effectués en entreprise ou dans un laboratoire de recherche
+Est ce que le stage est obligatoire ?	Oui la validation d'un stage est obligatoire.
+Merci pour votre temps.	​Bonne journée.
+C'est tout ce que j'ai comme question.	​Bonne journée.
+Est-il possible de redoubler le Master 2 ?	Non.
+Le Master 2 Data Science est-il à finalité recherche ou professionnelle ?	Il est à finalité professionnelle.
+Est-il possible de poursuivre en thèse après le M2 ?	Oui.
+Quels masters mathématiques proposent une alternance ?	Le master SITN.
+Y a-t-il des spécialisations pour le Master 2 Data Science ?	Non, seul le Master 2 Maths en Action proposent des spécialisations.
+Faut-il un bon niveau d'informatique pour suivre le Master 2 Data Science ?	il sera demandé de maîtriser plusieurs logiciels et systèmes d'exploitation. 
+Linux et Python ?	Une remise à niveau en Linux et Python est proposée et conseillée par l'établissement.
+Le Master 2 Data Science est-il récent ?	Oui, il a 3 ans.
+Quel est le nombre de crédits pour chaque matière du Master 2 Data Science ?	 Presques toutes les matières valent 3 crédits 
+Et les crédits par matière ?	"Développement informatique" vaut 6 crédits et le stage vaut 21 crédits.
+Y a-t-il des projets dans le Master 2 Data Science ?	Oui, le nombre de projets est assez important.​
+Jusqu'à quelle date puis-je m'inscrire ?	Jusqu’à juin
+L'inscription en ligne, c'est urgent ou on peut attendre ?	Il ne faut pas dépasser la date limite de l'inscription.
+Quel est le coût de la scolarité ?	il est de 400 euros.
+ça coûte combien de faire ce master ?	ça coûte 400 euros.
+Quels sont les modes de paiement possibles ?	Vous pouvez payer par carte, par chèque bancaire, par virement ou en espèce.
+Quelles sont les dates de toutes les vacances de cette année scolaire ?	Vous pouvez consulter le planning sur le site web.
+Quelles sont les matières du master data science ?	Graphes, Complexité, Combinatoire,Data Visualization, Big Data Analytics, Cloud Computing, Statistique Inférentielle, Modèles de Régression, Modèles Graphiques Probabilistes,Data Mining, Machine Learning, Fondamentaux Mathématiques pour les Data Science.
+Quelle est la durée minimale de stage de fin d'étude ?	Les stages sont d'une durée entre 5 et 6 mois.
+Quels sont les prérequis nécessaire pour le master data science ?	Il est conseillé d'avoir une bonne connaissance des Mathématiques et Statistique, Bases de données avancées, Analyse de données, Programmation en Pyhton ou R.
+Quand doit on commencer le stage de fin d'étude ?	Le stage commence au début de Mars.
+Y-aura t-il une cérémonie de remise des diplôme ?	Oui bien-sur. 
+Est-ce qu'il y a un stage obligatoire en fin d'année ?	Oui de six mois à partir de mars
+Est-il possible d'avoir la maquette détaillée de ce master ?	Oui je vous l'ai envoyée en pièce jointe
+Ce master propose une alternance ?	Non
+Où est-ce que je peux m'inscrire ?	Il faut contacter la scolarité
+Quelle est le déroulement du master ?	6 mois de cours et 5 mois de stage
+Comment se déroule le master ?	6 mois de cours et 5 mois de stage
+Combien de parcours sont proposés ?	Deux parcours sont proposés pour le Master Data Science : Le parcours Mathématiques et le parcours Informatique
+Est-il dur de trouver un stage ?	Des offres de stage seront transmises aux étudiants au fur et à mesure
+Quel est le niveau du master ?	Le niveau est plutôt bon
+Peut-on poursuivre en thèse ?	Oui c'est possible après le master
+Est-ce qu'il y a des forums entreprise pour le Master Data Science ?	Oui, il y a un forum entreprise lyon 1
+Un forum entreprise ?	Oui vous pourrez rentrer en communication avec plusieurs intervenants d'entreprises.
+Est-ce que le Master 2 Data Science est en partenariat avec des entreprises ?	Il y a des collaborations étroites avec des entreprises.
+Des liens avec des institutions étrangères ?	Il y a des liens étroits avec des institutions reconnues au niveau national et international
+Est-ce que le Master 2 Data Science est en partenariat avec une ou plusieurs Ècoles ?	Oui, les Ètudiants de Centrale Lyon et de Lyon1 assistent aux mêmes cours le long de cette formation    
+Il y a t-il des travaux pratiques en M2 Data Science ?	Oui, et cela dans l'objectif de maitriser des technologies et d'acquérir des compétences fortement demandées dans le marché de travail.
+Je veux savoir encore plus sur la formation	Pour en savoir plus veuillez visiter notre site web. 
+Je suis étudiant étranger	Veuillez vous renseigner sur la procédure Campus France   
+Est-ce qu'il y a un terrain de football ?	Oui, l'UniversitÈ Claude Bernard Lyon 1 est dotÈe de plusieurs espaces vert, terrains sportifs 
+On peut faire du sport ?	Oui basketball, football, rugby, tennis etc 
+Peut-on adhérer à une association ?	Oui, à Lyon 1 il y a l'Association des Informaticiens Lyonnais
+Peut-on s'adhérer à un club ?	Oui, à Lyon 1 il y a l'Association des Informaticiens Lyonnais
+Est-ce qu'il y a un restaurant universitaire juste à cotÈé?	Oui, il y a des restaurants universitaires à proximité
+Est-ce qu'il y a une salle de jeu ?	Non 
+Est-ce qu'il y a un babyfoot ?	Non	
+Est-ce qu'il y a une table de billard ?	Non
+Est-ce que la formation propose des certifications gratuites ?	Non, pour le moment, mais les professeurs exigent lors des TPs de travailler avec des technologies qui sont fortement demandées dans le marché de travail  
+Je suis étranger dois-je passer le Toeic obligatoirement ?	Non, le niveau B1 du TOEIC est exigé seulement pour les étudiants français
+Peut-on commencer le stage avant le 1er Mars ?	Oui, vous pourriez commencer le stage juste après que les cours se terminent.  
+La formation du Master 2 Data Science aura lieu où prÈcisément ?	La formation Master 2 Data Science aura lieu au batiment Nautibus. 
+Le diplome de master 2 Data Science informatique est-il diffÈrent de celui du parcours mathématique ?	Il n'y a aucune différence entre les deux diplomes, ainsi que ils ont les mêmes débouchés 
+Il y a-t-il un service qui fait la prospection des stages pour les Ètudiants ?	Oui, le service s'appelle career center, et le responsable vous transmets des offres de stages.
+Est-ce que je peux passer le Toeic gratuitement ?	Oui, pour le premier passage le Toeic est gratuit. 
+Quels sont les perspectives de la formation ?	Faire une thèse ou exercer le métier de Data scientist
+Quels sont les démarches de candidature pour un étudiant international ?	Les étudiants étrangers passent par une étude dossier et un entretien de motivation.
+Le stage est-il obligatoire en entreprise ?	Non, il est possible de l’effectuer en laboratoire.
+La Formation peut elle avoir lieu en alternance ?	Non
+Aurais-je besoin des cours de soutien ?	Non, les cours magistraux et séance de TD/TP sont suffisants
+Il y a des cours de Data Mining ?	Oui
+Il y a une mise à niveau en informatique ?	Oui, pour les étudiants option maths
+Il y’a des comptes rendus et rapports à rendre ?	Oui, une fois les TPs ou projets achevés  
+l’évaluation a lieu de manière régulière ou en fin de semestre ?	Les étudiants passent  des contrôles continus chaque mois dans les différentes disciplines 
+La formation comporte combien de modules ?	il y’a 10 unité d’enseignements pour le Semestre 3, et 4 UE pour le S4 
+Un stage d'insertion professionnelle ?	Oui un stage de recherche ou d’insertion professionnelle 
+Est ce que c’est un stage pré-embauche ?	Bien sûr ce stage sera de la pré embauche
+Vous encourager le travail ?	Nous ne sommes pas pour la précarisation du travail. 
+Quel est la salaire moyen d’un datascientist ?	cela dépend du niveau d’exeprtise, pour un profil junior, le salaire varie entre 37.000 et 50.000 euros. 
+Quelle est l’expertise requise pour le stage ?	Un profil junior nous intéresse,c'est à dire, à peu près deux ans d'expérience. 
+Où se trouve l’offre de travail ?	L’offre se situe à proximité de la défence à Paris. 
+Quelle est la durée de stage ?	La durée du stage et d’au moins 6 mois.
+Quels sont les moyens pour vous contacter ?	Vous pouvez les contacter en consultant le site web, ou directement en contactant le support RH. 
+Quelle est la taille de l’équipe de travail ?	​la taille de l’équipe est de 20 personnes. 
+Quel est le secteur d’activité ?	​le stage est lié au secteur bancaire. 
+Quel est le sujet du stage ?	Le sujet tourne autour du développement d’un Chatbot. 
+Quel est le meilleur moyen pour développer ses compétences en tant que datascientist ?	​Participer à des projets, et des compétitions Kaggle est un bon moyen pour développer ses compétences.​
+Bonjour	Bonjour, puis je vous aider?
+Comment intégrervotre master data science ?	Il faut candidater sur le site
+puis je l’intégrer quand je suis étranger ?	Oui absolument tant que vous êtes autorisés
+les étrangers suivent ils le même format d’inscription ?	Si vous êtes en france oui, sinon vous pouvez regarder sur internet.
+Je suis déjà en france ?	Dans ce cas êtes vous de Lyon1 ?
+Je suis de Lyon 1. 	Postulez dans ce cas directement sur ecandidat Lyon 1
+Merci de votre aide	je suis là pour ça. A la prochaine
+​Bonjour	Bonjour
+Je suis de Centrale.Puis-je suivre le M2 Data Science ?	Quelle est votre option à Centrale ?
+Je fais ECL en Informatique	Vous pouvez suivre le M2 Data Science
+Comment faire pour s'inscrire venant de centrale ?	Il faut déposer un dossier de candidature auprès de votre établissement.
+Quelles seront les matières enseignées en double parcours ?	Machine Learning et Modèles Graphiques Probabilistes
+Quelles seront les matières enseignées en venant de centrale ?	Machine Learning et Modèles Graphiques Probabilistes
+Quelles seront les matières enseignées en venant de l'ECL ?	Machine Learning et Modèles Graphiques Probabilistes
+Qui est le professeur principal ?		Le professeur est Monsieur Aussem
+Les partiels sont-ils surs ?	En étant régulier et sérieux, vous devriez vous en sortir
+Les partiels sont-ils difficile ?	En étant régulier et sérieux, vous devriez vous en sortir
+Quels compétences sont nécessaires pour intégrer le master ?	Mathématiques et statistiques
+Est ce que le master propose un enseignement en Big Data?	Oui il y a un cours en Big Data
+Avons nous la possibilité d'effectuer un stage lors du master?	Oui de six mois à partir de mars
+Comment s'inscrire au master?	Les inscriptions 2019 se font sur ecandidat
+Y a t'il des cours le week-end ?	 Non,  mais la BU est ouverte
+Quelle est la rémunération minimale d'un stagiaire ?	La paye minimale durant le stage est de 550 Euros mensuels environ
+Ce master permet il de faire une thèse ?	Oui c'est possible après le master
+Y a t'il des cours de mise à jour en informatique ?	Oui, pour les étudiants de DS math
+Recevons nous obligatoirement une rémunération pour le stage ?	Oui, le stage est obligatoirement rémunéré
+Quand pouvons nous commencer le stage ?	 Le commence en mars.
+Quel est l’effectif de la promotion en mathématiques de l’an dernier ?	16 étudiants en DS info
+Comment peut-on candidater ?	Sur le site du master.
+Est-ce que Lyon est une ville étudiante ?	Oui, elle a été élu meilleure ville étudiante 2018. 
+Quelle pré-requis faut-il avoir pour accéder au master ?	Cela dépend des parcours. 
+Les matières se compensent-elles entre elles ?	Oui. 
+Faut il valider toutes les matières pour valider le master ?	Cela dépend des parcours. 
+Faut il valider toutes les matières pour valider le master parcours Mathématiques ?	Non, du moment que la moyenne est au dessus de 10 pour les matières et pour le stage. 
+Quel différences entres les parcours ?	Quelques matières diffèrent, il faut regarder sur le site du master. 
+Qu’est-ce que la Data Visualization ?	C'est pour visualiser les data.
+Y a-t-il des options ?	Non, c'est un tronc commun
+Comment trouver un stage ?	Vous recevrez de nombreuses offres
+Qu'est ce que le machine learning ?	Vous aurez l'occasion de le découvrir !
+Est-il nécessaire d'avoir un bon ordinateur ?	Non, mais c'est mieux
+Y a-t-il des cours de deep Learning ?	​Pas spécifiquement, mais vous aurez l'occasion d'en parler
+Est-il difficile de trouver un stage ?	Non, les offres de stages sont nombreuses
+Y'a-t-il des débouchés ?	Oui surtout en machine learning
+Quelle est la taille de la promotion ?	Les promotions comptent environ 20 personnes
+Y'a-t-il beaucoup de mathématiques ?	A peu près 50%
+Doit-on obligatoirement faire un stage ?	Oui de six mois à partir de mars
+Le TOEIC est-il obligatoire ?	Oui il est obligatoire pour valider le master
+Peut-on poursuivre en thèse ?	Oui il est possible de poursuivre en thèse académique ou CIFRE
+Quels langages de programmation faut-il connaître ?	Vous aurez principalement besoin des langages Python, R et Scala
+Combien de temps dure le stage ?	Entre 5 et 6 mois
+Comment candidater ?	Il faut le faire sur eCandidat​
+Y’a t-il des options ?	Non, mais les matières sont différentes selon les parcours.
+Pourquoi faire ce master  ?	Pour se former au métier de data scientist
+Où se situe les locaux du master ?	Sur le site de la Doua.
+Proposez-vous des stages ?	Il faut contacter la scolarité
+Sommes-nous facilement recruter à la sortie du master ?	Oui
+Est-ce que tous les cours sont sur le site de la Doua ?	Oui
+Combien y’a de cours par semaine ?	Il faut contacter la scolarité
+Quels sont les stages qui ont déjà été fait ?	Il faut contacte la scolarité
+Y’a t-il d’autres master data science en France ?	Oui
+Quels sont les logiciels utilisés pour le parcours Informatique ?	Python principalement
+C’est quand les dates des stages ?	En mars
+Quels sont les cours proposés dans le cadre de le Master Data Science ?	Ce Master comprend des cours tels que Machine Learning, PGM ou encore fondamentaux mathématiques pour la Data Science.
+Puis-je suivre ce master sans avoir fait de cours similaires avant ?	Oui, pourvu que vous ayez un bagage suffisant en mathématiques et informatique. 
+Le stage de fin d'études doit être orienté recherche uniquement ?	Le stage peut être applicatif pourvu qu'il y ait une démarche de recherche. 
+Êtes-vous un chatbot ou un humain ?	Je vous laisse deviner. Je ne ferai pas de test de Turing aujourd'hui. 
+J'aime beaucoup les mathématiques et je m'intéresse à l'extraction de connaissances.	Ce master est fait pour vous	
+Pensez-vous que le master intelligence artificielle m'est plus adapté que le master data science ?	Si vous avez un profil plutôt mathématiques, je vous conseille le master data science.
+A-t-on de bonnes chances d'être recruté à l'issu de ce master ?	La Data Science est un domaine en pleine expansion, les débouchés sont nombreux. 
+Je ne vois pas de module de Deep Learning dans le programme du Master.	Les réseaux de neurones sont abordés en Machine Learning notamment. 
+Les réseaux de neurones sont-ils abordés dans le parcours Data Science ?	Les réseaux de neurones sont abordés en Machine Learning notamment. 
+Y a-t-il des machines à café dans le bâtiment Nautibus ?	Oui, il y en a même sur tout le campus. 
+A-t-on besoin d'avoir son propre ordinateur pour ce parcours ?	Il n'est pas indispensable d'avoir son propre PC mais cela est fortement recommandé. 
+Le parcours est-il ouvert aux étudiants étrangers ?	​Les étudiants étrangers peuvent s'inscrire. 
+On peut faire son stage au Japon ?	Oui, vous pouvez faire votre stage ou vous le souhaitez, sous réserve de validation par l'université
+Quels sont les débouchés possibles ?	Le métier de data scientist
+Y a t il des abandons durant l'année ?	C'est assez rare
+Quels sont les différences avec le master IA ?	Le master DS est plus orienté machine learning et big data
+Faut-il être bon en maths ?	C'est préférable, il y a des rappels.
+Sur quels sujets faut-il se mettre à jour en maths ?	Les statistiques et les probabilités
+Faut-il être bon en anglais ?	Il faut obtenir le niveau B1 au TOEIC pour valider le master
+Quel est le niveau en anglais ?	Il faut obtenir le niveau B1 au TOEIC pour valider le master
+Qui est le responsable du master ?	Il faut se renseigner sur la page siteContacts
+Combien y a t il de places ?	Il y a 20 places en tout
+Quels sont les 3 lois de la robotique ?	On me les a apprise mais j'ai oublié
+Quel est le professeur de Machine Learning ?	Alexandre Aussem
+Est-il possible de suivre la formation en alternance ?	Non, ce n'est pas possible
+Le master est-il plutôt orienté maths ou infos ?	Le master est moitié maths moitié info.
+Faut-il avoir suivi des cours de statistiques pour postuler ?	Non, une mise à niveau sera faite en début d'année.
+Y a-t-il des cours de dataviz ?	Oui, c'est au programme du master.
+Comment allez-vous ?	Très bien, je vous remercie.
+Il fait beau aujourd'hui.	Oui le soleil est radieux.
+Faut-il faire un stage en fin d'année ?	Oui le stage est obligatoire pour valider le M2.
+Combien de temps doit durer le stage ?	Entre 5 et 6 mois.
+Faut-il avoir un ordinateur personnel ?	Ce n'est pas obligatoire mais fortement recommandé.
+Combien de temps durent les pauses entre 2 cours ?	Les pausent durent 15min.
+Peut-on trouver à manger près des cours ?	Oui, il y a une très bonne cafétéria tenue par les élevés dans le bâtiment Nautibus.
+Combien d'étages ont les bâtiments de cours ?	Les bâtiments ont 2 étages.
+La vue par la fenêtre est elle belle ?	Oui si on sait apprécier le charme d'un parking.
+Les professeurw sont-ils des chercheurs dans leur domaine ?	Oui.
+Est ce qu'un bâtiments risque d'exploser comme à la Doua ?	Non, ici rien d'explosif.
+Qui est le responsable du master ?	Alexandre Aussem
+Si je ne viens pas de Lyon ?	Cinq places pour les titulaires d'un master français
+Les cours sont en quelle langue ?	En français avec support écrit anglais
+Faut il parler anglais ?	Le niveau B2 du TOEIC est requis pour valider le master
+A t-on à choisir entre certaines matières ?	Non, toutes les matières sont obligatoires
+Les matières sont en controle continu ?	Cela dépend des matières
+Il y a des rattrapages ?	Cela dépend des matières
+Quelles sont les horaires ?	Cela dépend des jours, voir la page planning
+Faut il avoir son propre PC ?	C'est conseillé mais pas obligatoire
+Quel est le cout du Master ?	Vous devriez poser la question au service de scolarité
+Qui a développé le chatbot ?	C'est Mr Aussem qui a développé le chatbot.
+Qui a programmé le chatbot ?	C'est Mr Aussem qui a développé le chatbot.
+Je parle à qui ?	Je suis le chatbot du master data science de Lyon 1.
+Qui es-tu ?		Je suis le chatbot du master data science de Lyon 1.
+Qui êtes-vous ?	Je suis le chatbot du master data science de Lyon 1.
+A qui je parle ?	Je suis le chatbot du master data science de Lyon 1.
+Je n'ai pas compris.	Je suis le chatbot du master data science de Lyon 1.
+Je ne comprends rien à votre réponse ?	Je suis le chatbot du master data science de Lyon 1.
+Qui est ton chef ?	C'est Mr Aussem qui a développé le chatbot.
+Qui est ton dieu ?	C'est Mr Aussem qui a développé le chatbot.
+Qui t'a créé ?	C'est Mr Aussem qui a développé le chatbot.
+Je parle à une machine ?	C'est Mr Aussem qui a développé le chatbot.
+Tu es un bot ?	C'est Mr Aussem qui a développé le chatbot.
+Bot ?	C'est Mr Aussem qui a développé le chatbot.
+Tu sais dire autre chose ?	Non, je ne suis qu'un chatbot.
+Tu sais parler ?	Non, je ne suis qu'un chatbot.
+Parle moi de quelque chose d'autre.	Non, je ne suis qu'un chatbot.
+Dites-moi quelque chose d'autre.	Non, je ne suis qu'un chatbot.
